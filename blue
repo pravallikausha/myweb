@@ -1,0 +1,8 @@
+vsc is divided into two types
+central version control system
+decentralised version control system
+central control system manages centralized serves each devloper gets login and store files and commit codes to the team
+the dra back of cvcs is a single point of failure corruption of server
+and the corruption of hard disk
+if there is no proper backup then the entire project history gets lost 
+to over come this issues dvcs came into picture
